@@ -1,0 +1,8 @@
+{
+  "name": "Vision Pinch Control",
+  "description": "An application that demonstrates hand gesture control, allowing users to interact with the UI by pointing and pinching, similar to Apple's Vision Pro. It uses the webcam for hand tracking and Gemini to provide information on clicked items.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
