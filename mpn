@@ -1,0 +1,3 @@
+npm install react-dom
+npm install @modelcontextprotocol/sdk@1.11.0
+npm install path vite --save-dev
